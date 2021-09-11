@@ -1,2 +1,2 @@
 # Apigateway
-Arquivo .Zip + Código (Application + Properties
+Arquivo .Zip + Código (Application + Properties)
